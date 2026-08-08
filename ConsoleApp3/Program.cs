@@ -74,7 +74,7 @@ class Program
         }
         Console.WriteLine();
 
-        int maxSum = 1;
+        int maxSum = 0;
         int maxColumnIndex = -1;
 
         for (int j = 0; j < cols2; j++)
